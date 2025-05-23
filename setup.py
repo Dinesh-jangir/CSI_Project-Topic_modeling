@@ -29,14 +29,13 @@ def get_requirements()->List[str]:
     return requirement_lst
 
 
-setup (
-    name = "NETWORKSECURITY",
-    version = "0.0.1",
-    author = "Dinesh jangir",
-    author_email = "dineshjangir887766@gmail.com",
-    packages = find_packages(),
-    install_requires = get_requirements()
-)
+# setup (
+#     name = "NETWORKSECURITY",
+#     version = "0.0.1",
+#     author = "Dinesh jangir",
+#     author_email = "dineshjangir887766@gmail.com",
+#     packages = find_packages(),
+#     install_requires = get_requirements()
+# )
 
-
-# print(get_requirements('requirement.txt'))
+print(get_requirements('requirement.txt'))

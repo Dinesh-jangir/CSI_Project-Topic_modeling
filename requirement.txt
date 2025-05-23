@@ -1,0 +1,10 @@
+spacy
+pyLDAvis
+matplotlib
+numpy
+pandas
+pprint
+gensim
+scikit-learn
+
+-e .
