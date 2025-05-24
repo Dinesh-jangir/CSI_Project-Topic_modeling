@@ -30,15 +30,12 @@ The goal is to uncover hidden topics, analyze dominant themes, and better unders
 - Pandas, NumPy (data handling)
 - Matplotlib, Seaborn, pyLDAvis (visualization)
 
----
-
-## 🚀 How to Run
-
-### 1️⃣ Clone the Repository
-
 ```bash
 git clone https://github.com/Dinesh-jangir/CSI_Project.git
 cd CSI_Project
+
+
+
 
 📁 Project Structure
 
